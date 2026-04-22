@@ -25,6 +25,9 @@
 
 <!--# 💫 About Me:
 Building scalable data pipelines using AWS (S3, Glue, Lambda) and optimizing ETL workflows with Python, SQL, Databricks, and Snowflake.<br>Real-world data engineering projects involving cloud architecture, big data processing, Databricks (Spark), or Snowflake-based data warehousing.<br>Advanced data architecture, streaming pipelines (Kafka/Kinesis), and performance optimization in Databricks & Snowflake.<br>Spark optimization techniques, Delta Lake, and designing end-to-end data platforms using AWS, Databricks, and Snowflake.<br>AWS, Python, SQL, ETL pipelines, Databricks, Snowflake, and data engineering best practices.-->
+<!--[![Data Engineering Banner](https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif)](https://www.linkedin.com/in/vaibhav-deshwal19)-->
+<!--[![Scalable Data Engineering Pipelines – Debugging Mode](https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif)](https://www.linkedin.com/in/vaibhav-deshwal19)
+-->
 ### 🚀 Data Engineer specializing in scalable AWS & Databricks pipelines, Spark optimization, and Snowflake data warehousing.
 
 
