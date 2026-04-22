@@ -56,6 +56,6 @@ Building scalable data pipelines using AWS (S3, Glue, Lambda) and optimizing ETL
 ![](https://github-profile-trophy.vercel.app/?username=Vaibhav-1-Droid&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
-[![](https://komarev.com/ghpvc/?username=Vaibhav-1-Droid&icon=0&color=7)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=Vaibhav-1-Droid&icon=0&color=orange)](https://visitcount.itsvg.in)
 
 
