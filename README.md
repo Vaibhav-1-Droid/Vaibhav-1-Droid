@@ -43,4 +43,4 @@ Building scalable data pipelines using AWS (S3, Glue, Lambda) and optimizing ETL
 ---
 [![](https://komarev.com/ghpvc/?username=Vaibhav-1-Droid&icon=0&color=7)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
