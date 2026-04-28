@@ -30,7 +30,7 @@ Building scalable data pipelines using AWS (S3, Glue, Lambda) and optimizing ETL
 -->
 ### 🚀 Data Engineer specializing in scalable AWS & Databricks pipelines, Spark optimization, and Snowflake data warehousing.
 
-![](./assets/vaibhav-data-engineering.gif.gif)]
+![](./assets/vaibhav-data-engineering.gif)
 
 
 
