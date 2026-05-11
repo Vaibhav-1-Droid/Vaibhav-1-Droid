@@ -46,7 +46,7 @@ Building scalable data pipelines using AWS (S3, Glue, Lambda) and optimizing ETL
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaibhav-deshwal19) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=vaibhavdeshwal1@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaibhav-deshwal19) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vaibhavdeshwal1@gmail.com)
  [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-green)](https://www.hackerrank.com/profile/vaibhavdeshwal1) [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode)](https://leetcode.com/u/Deshwal1/)
 [![Salesforce](https://img.shields.io/badge/Salesforce-Trailblazer-blue?logo=salesforce)](https://www.salesforce.com/trailblazer/vdeshwal2)
 
